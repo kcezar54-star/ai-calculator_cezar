@@ -1,0 +1,8 @@
+AI Feature Pitch – Calculator App
+
+Feature Idea:
+AI explains the step-by-step solving process for calculations.
+
+User Story:
+As a student, I want AI to explain the step-by-step solution in the calculator,
+so that I understand how the answer was computed instead of only seeing the final result.
